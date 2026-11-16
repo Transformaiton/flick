@@ -1,17 +1,14 @@
-## Contribution type
+## What this change is
 
+- [ ] Customer documentation for Flick by Transformaiton.com
 - [ ] Showcase example made with Flick
 
-Core skills, scripts, and workflow are maintained by Creatorberry and are not accepting pull requests at this time.
+## Summary
 
-## Showcase details
+-
 
-- Title:
-- One-line description:
-- Input type: video / transcript / script
-- Aspect ratio:
-- Preview link or included file:
-
-## Rights confirmation
+## Rights
 
 - [ ] I have the right to share every asset included in this contribution.
+
+This repository is Transformaiton.com’s public copy of [Creatorberry/flick](https://github.com/Creatorberry/flick). Transformaiton.com is not affiliated with or endorsed by the original authors.

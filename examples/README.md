@@ -2,6 +2,8 @@
 
 Animations made with Flick. Each folder contains a short showcase video and a concise description.
 
+Start with the [Flick by Transformaiton.com guide](../README.md).
+
 | Example | Description |
 | --- | --- |
 | [China OCR hook](china-ocr-hook/) | A hook about unlimited OCR. |
